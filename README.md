@@ -7,3 +7,5 @@
 - Message to Create Merge Request HERE
 
 - MR line 10
+
+- Conflict Message
